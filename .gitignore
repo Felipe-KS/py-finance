@@ -1,2 +1,3 @@
-**/__pycache__
-**/migrations
+*/finance/__pycache__
+*/finance/migrations
+*/py_finance/__pycache__
